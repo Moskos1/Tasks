@@ -1,0 +1,8 @@
+C:\Users\kvere\source\repos\Task1\bin\Debug\Task1.exe.config
+C:\Users\kvere\source\repos\Task1\bin\Debug\Task1.exe
+C:\Users\kvere\source\repos\Task1\bin\Debug\Task1.pdb
+C:\Users\kvere\source\repos\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\kvere\source\repos\Task1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kvere\source\repos\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\kvere\source\repos\Task1\obj\Debug\Task1.exe
+C:\Users\kvere\source\repos\Task1\obj\Debug\Task1.pdb

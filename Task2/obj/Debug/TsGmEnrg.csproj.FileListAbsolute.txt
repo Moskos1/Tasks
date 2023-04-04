@@ -1,0 +1,11 @@
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\bin\Debug\TsGmEnrg.exe.config
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\bin\Debug\TsGmEnrg.exe
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\bin\Debug\TsGmEnrg.pdb
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\obj\Debug\TsGmEnrg.csproj.AssemblyReference.cache
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\obj\Debug\TsGmEnrg.csproj.SuggestedBindingRedirects.cache
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\obj\Debug\TsGmEnrg.csproj.CoreCompileInputs.cache
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\obj\Debug\TsGmEnrg.csproj.CopyComplete
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\obj\Debug\TsGmEnrg.exe
+C:\Users\kvere\source\repos\TsGmEnrg\TsGmEnrg\obj\Debug\TsGmEnrg.pdb
